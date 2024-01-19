@@ -17,7 +17,4 @@ fun main(args: Array<String>) {
 
     val worker:Worker = Worker("J","m", 100 )
     println( worker.infoAboutWorker("D", "E",200) )
-
-
-
 }

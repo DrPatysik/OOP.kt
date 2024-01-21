@@ -1,10 +1,10 @@
-// import java.lang.System.*
 import java.util.Scanner
-// import kotlin.time.times
-
 
 class Worker(val name: String, val position: String, val wage: Int, ) {
-
+    fun infoWorker(name: String, position: String, wage: Int,month:Int ):String {
+        val totalWage = wage * month
+        return "Worker $name work on position $position get $totalWage for $month month!"
+    }
     fun infoAboutWorker( name: String, position: String, wage: Int):String {
         println("How much month? ")
       val month = Scanner(System.`in`).nextInt()

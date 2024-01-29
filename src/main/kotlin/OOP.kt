@@ -8,7 +8,6 @@ fun main(args: Array<String>) {
     val human4:Human = Human("Josh",46,115)
 
 
-
 /*//    about dog
     val dog:Dog = Dog("Bobik", "ovcharka", 13)
         println(dog.run())

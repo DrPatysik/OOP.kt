@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49fa12f3-bf56-4d22-9b63-926964211bb9" name="Changes" comment="добавила методы в worker,dog">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="49fa12f3-bf56-4d22-9b63-926964211bb9" name="Changes" comment="новые классы и методы(монстры,сотрудники,животные)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Dog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Human.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Human.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP.kt" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Worker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Worker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/META-INF/kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/META-INF/kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/NextStepOOPKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/NextStepOOPKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin/OOPKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/OOPKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/Worker.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NextStepOOPKt">
+  <component name="RunManager" selected="Kotlin.OOPKt">
     <configuration name="NextStepOOPKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NextStepOOPKt" />
       <module name="kotlin" />
@@ -69,8 +65,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.NextStepOOPKt" />
         <item itemvalue="Kotlin.OOPKt" />
+        <item itemvalue="Kotlin.NextStepOOPKt" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705870516210</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="новые классы и методы(монстры,сотрудники,животные)">
+      <option name="closed" value="true" />
+      <created>1706552342563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706552342563</updated>
+    </task>
+    <task id="LOCAL-00004" summary="новые классы и методы(монстры,сотрудники,животные)">
+      <option name="closed" value="true" />
+      <created>1706552636252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706552636252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавила методы в worker,dog" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавила методы в worker,dog" />
+    <MESSAGE value="новые классы и методы(монстры,сотрудники,животные)" />
+    <option name="LAST_COMMIT_MESSAGE" value="новые классы и методы(монстры,сотрудники,животные)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

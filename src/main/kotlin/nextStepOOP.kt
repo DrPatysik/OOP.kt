@@ -27,12 +27,20 @@ fun main(args:Array<String>){
 
 //    задание с животными(кошки,собаки)
    val dogBobik = Dog2("Bobik")
+   val n = Dog2()
+   val bf = Dog2("FSDA")
      /*dogBobik.run(760)
      dogBobik.swim(9)*/
+    Dog2.numberOfDogs()
 
     val catMurka = Cat("Murka")
+    val g = Cat("Kisa")
    /* catMurka.run(480)
     catMurka.swim(23)*/
+    Cat.numberOfCats()
+
 
     val animal = Animal("Lion")
+    val ani = Animal("Tiger")
+    Animal.numberOfAllAnimals()
 }

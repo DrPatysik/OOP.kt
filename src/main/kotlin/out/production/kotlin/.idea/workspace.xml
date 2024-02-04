@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49fa12f3-bf56-4d22-9b63-926964211bb9" name="Changes" comment="добавила методы в worker,dog">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="49fa12f3-bf56-4d22-9b63-926964211bb9" name="Changes" comment="удалила лишнее">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Dog.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP.kt" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Worker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Worker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dog2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Dog2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextStepOOP.kt" beforeDir="false" afterPath="$PROJECT_DIR$/nextStepOOP.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/META-INF/kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/META-INF/kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/OOPKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/OOPKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/NextStepOOPKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/NextStepOOPKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +94,39 @@
       <option name="project" value="LOCAL" />
       <updated>1705870516210</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="новые классы и методы(монстры,сотрудники,животные)">
+      <option name="closed" value="true" />
+      <created>1706552342563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706552342563</updated>
+    </task>
+    <task id="LOCAL-00004" summary="новые классы и методы(монстры,сотрудники,животные)">
+      <option name="closed" value="true" />
+      <created>1706552636252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706552636252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавила метод вычисления сред.арифм.возрастов">
+      <option name="closed" value="true" />
+      <created>1706999961951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706999961951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="удалила лишнее">
+      <option name="closed" value="true" />
+      <created>1707000029372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707000029372</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +142,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавила методы в worker,dog" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавила методы в worker,dog" />
+    <MESSAGE value="новые классы и методы(монстры,сотрудники,животные)" />
+    <MESSAGE value="добавила метод вычисления сред.арифм.возрастов" />
+    <MESSAGE value="удалила лишнее" />
+    <option name="LAST_COMMIT_MESSAGE" value="удалила лишнее" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
